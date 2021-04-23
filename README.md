@@ -143,12 +143,12 @@ confidence_interval
 <p><code>0.025   -0.101156</code><br>
   <code>0.975   -0.066840</code><br>
 </p>
-<p>So handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a simple but highly effective procedure that could save many lives.</p>
 
 <h3> Conclusion </h3>
+
+<p>So handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a simple but highly effective procedure that could save many lives.</p>
 
 ```python
 # The data Semmelweis collected points to that:
 doctors_should_wash_their_hands = True
 ```
-
